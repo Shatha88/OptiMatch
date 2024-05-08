@@ -27,7 +27,7 @@ description here.
 
 ## Tech/framework
 
-[![Development](https://skillicons.dev/icons?i=gcp&theme=light)](https://gcp.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=notion&theme=light)](https://notion.dev)&nbsp;&nbsp;[<img src="Icon/Power-BI.png" width="40px"/>](https://powerbi.microsoft.com/en-us/desktop/)
+[![Development](https://skillicons.dev/icons?i=gcp&theme=light)](https://gcp.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=notion&theme=light)](https://notion.dev)&nbsp;&nbsp;[<img src="Icon/Power-BI.png" width="35px"/>](https://powerbi.microsoft.com/en-us/desktop/)
 
 
 ## Credits
