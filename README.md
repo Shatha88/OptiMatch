@@ -25,9 +25,9 @@ description here.
 - 4
 
 
-## Tech/framework used
+## Tech/framework
 
-[![Development](https://skillicons.dev/icons?i=dart&theme=dark)](https://dart.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=flutter&theme=dark)](https://flutter.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+[![Development](https://skillicons.dev/icons?i=gcp&theme=dark)](https://gcp.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=notion&theme=dark)](https://notion.dev)&nbsp;&nbsp;<a href="PNG/Desktop.png"><img src="PNG/Desktop.png" height="30"/></a>|<a href="SVG/Desktop.svg"><img src="SVG/Desktop.svg" height="30"/></a>
 
 [<img src="https://avatars.githubusercontent.com/u/58453772?s=280&v=4" width="50px;"/>](https://rive.app)&nbsp;&nbsp;[![Design](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com)
 
