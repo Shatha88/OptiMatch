@@ -27,7 +27,7 @@ description here.
 
 ## Tech/framework
 
-[![Development](https://skillicons.dev/icons?i=gcp&theme=dark)](https://gcp.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=notion&theme=dark)](https://notion.dev)&nbsp;&nbsp;<a href="Icon/Power-BI.png"><img src="Icon/Power-BI.png" height="35"/></a>
+[![Development](https://skillicons.dev/icons?i=gcp&theme=dark)](https://gcp.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=notion&theme=dark)](https://notion.dev)&nbsp;&nbsp;<a href=""><img src="Icon/Power-BI.png" height="40"/></a>
 
 [<img src="https://avatars.githubusercontent.com/u/58453772?s=280&v=4" width="50px;"/>](https://rive.app)&nbsp;&nbsp;[![Design](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com)
 
