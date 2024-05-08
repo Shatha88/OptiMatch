@@ -27,9 +27,9 @@ description here.
 
 ## Tech/framework
 
-[![Development](https://skillicons.dev/icons?i=gcp&theme=dark)](https://gcp.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=notion&theme=dark)](https://notion.dev)&nbsp;&nbsp;<a href=""><img src="Icon/Power-BI.png" height="40"/></a>
+[![Development](https://skillicons.dev/icons?i=gcp&theme=light)](https://gcp.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=notion&theme=light)](https://notion.dev)&nbsp;&nbsp;<a href="https://powerbi.microsoft.com/en-us/desktop/"><img src="Icon/Power-BI.png" width="50px"/></a>
 
-[<img src="https://avatars.githubusercontent.com/u/58453772?s=280&v=4" width="50px;"/>](https://rive.app)&nbsp;&nbsp;[![Design](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com)
+[<img src="Icon/Power-BI.png" width="50px"/>](https://powerbi.microsoft.com/en-us/desktop/)
 
 
 ## Credits
