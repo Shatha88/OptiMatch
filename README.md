@@ -3,7 +3,7 @@
 - [Intro](#Intro)
 - [Hypotheses](#Hypotheses)
 - [Recommendation](#Recommendation)
-- [Tech/framework used](#Tech/framework used)
+- [Tech/framework](#Tech/framework)
 - [Credits](#credits)
 
 ## Intro
