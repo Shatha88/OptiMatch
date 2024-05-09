@@ -6,14 +6,15 @@
 - [Tech/framework](#Tech/framework)
 - [Credits](#credits)
 
-## Intro
+## Introduction
 
-description here.
+OptiMatch is a job placement website that supports the official career center for over 750 universities worldwide using a matching tool connecting students and companies.
+As an analysts team, we want to analyze the OptiMatch funnel for the product team to enhance student job placement, so that we can improve and provide better opportunities for students.
 
 ## Hypotheses
 
 - 1
-- 2 
+- 2
 - 3
 - 4
 
