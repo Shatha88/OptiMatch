@@ -32,7 +32,7 @@ description here.
 
 ## Credits
 
-[<img src="https://github.com/Shatha88.png" width="50px;"/>](https://github.com/Shatha88)&nbsp;&nbsp;[<img src="https://github.com/Nujudalbaqshi.png" width="50px;"/>](https://github.com/Nujudalbaqshi)&nbsp;&nbsp;[<img src="https://github.com/NorahAbdo8.png" width="50px;"/>](https://github.com/NorahAbdo8)
+[<img src="https://github.com/Shatha88.png" width="50px;"/>](https://github.com/Shatha88)&nbsp;&nbsp;[<img src="https://github.com/Nujudalbaqshi.png" width="50px;"/>](https://github.com/Nujudalbaqshi)&nbsp;&nbsp;[<img src="https://github.com/NorahAbdo8.png" width="50px;"/>](https://github.com/NorahAbdo8)&nbsp;&nbsp;[<img src="https://github.com/AlSagabi.png" width="50px;"/>](https://github.com/AlSagabi)
 
-Shatha &nbsp;&nbsp; Nujud &nbsp;&nbsp; Norah <br />
-Althbiti &nbsp;&nbsp;Albaqshi &nbsp;Alsomali
+Shatha &nbsp;&nbsp; Nujud &nbsp;&nbsp; Norah &nbsp;&nbsp; Mosab <br />
+Althbiti &nbsp;Albaqshi &nbsp;Alsomali &nbsp;AlSagabi
