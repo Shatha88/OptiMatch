@@ -29,7 +29,9 @@ These points collectively highlight various aspects that influence student job p
 ### Recommendations
 
 - We suggest extending the response window for students from 3 days to 7 days or enhancing communication by diversifying notification channels to reach students more effectively.
-- Encouraging schools to establish career centers can significantly impact job placement outcomes. 
+  
+- Encouraging schools to establish career centers can significantly impact job placement outcomes.
+  
 - Encouraging students to complete their profiles and upload resumes by offering free resume templates tailored to different industries and career paths.
 
 
